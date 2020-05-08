@@ -228,8 +228,7 @@ export default {
   data() {
     return {
       backendVersion: '',
-      advanced: "2",
-      radio:'0',
+      advanced: "1",
 
       options: {
         clientTypes: {
