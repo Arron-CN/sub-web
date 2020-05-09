@@ -251,6 +251,11 @@ export default {
             label: "universal",
             options: [
               {
+                label: "默认",
+                value:
+                  ""
+              },
+              {
                 label: "No-Urltest",
                 value:
                   "https://raw.githubusercontent.com/admin-dyl/sub-rules/master/RemoteConfig/universal/no-urltest.ini"
@@ -263,7 +268,7 @@ export default {
         sourceSubUrl: "",
         clientType: "",
         customBackend: "",
-        remoteConfig: "",
+        remoteConfig: "默认",
         excludeRemarks: "",
         includeRemarks: "",
         filename: "",
