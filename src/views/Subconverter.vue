@@ -262,6 +262,66 @@ export default {
               }
             ]
           },
+          {
+            label: "customized",
+            options: [
+              {
+                label: "Maying",
+                value:
+                  "https://subconverter.oss-ap-southeast-1.aliyuncs.com/Rules/RemoteConfig/customized/maying.ini"
+              },
+              {
+                label: "rixCloud",
+                value:
+                  "https://subconverter.oss-ap-southeast-1.aliyuncs.com/Rules/RemoteConfig/customized/rixcloud.ini"
+              },
+              {
+                label: "YoYu",
+                value:
+                  "https://subconverter.oss-ap-southeast-1.aliyuncs.com/Rules/RemoteConfig/customized/yoyu.ini"
+              },
+              {
+                label: "Ytoo",
+                value:
+                  "https://subconverter.oss-ap-southeast-1.aliyuncs.com/Rules/RemoteConfig/customized/ytoo.ini"
+              },
+              {
+                label: "NyanCAT",
+                value:
+                  "https://subconverter.oss-ap-southeast-1.aliyuncs.com/Rules/RemoteConfig/customized/nyancat.ini"
+              },
+              {
+                label: "Nexitally",
+                value:
+                  "https://subconverter.oss-ap-southeast-1.aliyuncs.com/Rules/RemoteConfig/customized/nexitally.ini"
+              },
+              {
+                label: "贼船",
+                value:
+                  "https://subconverter.oss-ap-southeast-1.aliyuncs.com/Rules/RemoteConfig/customized/zeichuan.ini"
+              },
+              {
+                label: "布丁",
+                value:
+                  "https://subconverter.oss-ap-southeast-1.aliyuncs.com/Rules/RemoteConfig/customized/pud.ini"
+              }
+            ]
+          },
+          {
+            label: "Special",
+            options: [
+              {
+                label: "NeteaseUnblock(仅规则，No-Urltest)",
+                value:
+                  "https://subconverter.oss-ap-southeast-1.aliyuncs.com/Rules/RemoteConfig/special/netease.ini"
+              },
+              {
+                label: "Basic(仅GEOIP CN + Final)",
+                value:
+                  "https://subconverter.oss-ap-southeast-1.aliyuncs.com/Rules/RemoteConfig/special/basic.ini"
+              }
+            ]
+          }
         ]
       },
       form: {
