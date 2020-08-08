@@ -246,6 +246,7 @@ export default {
           ssd: "ssd"
         },
         backendOptions: [{ value: "http://dylcloud.xyz:10000/sub?" }],
+        backendOptions: [{ value: "http://dylcloud.xyz:10000/sub?" }],
         remoteConfig: [
           {
             label: "universal",
