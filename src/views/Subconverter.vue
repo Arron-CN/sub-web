@@ -332,7 +332,7 @@ export default {
         excludeRemarks: "",
         includeRemarks: "",
         filename: "",
-        emoji: false,
+        emoji: true,
         nodeList: false,
         extraset: false,
         sort: false,
