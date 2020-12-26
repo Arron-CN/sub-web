@@ -243,7 +243,8 @@ export default {
           Loon: "loon",
           ss: "ss",
           ssr: "ssr",
-          ssd: "ssd"
+          ssd: "ssd",
+          v2ray: "v2ray"
         },
         backendOptions: [{ value: "http://dylcloud.xyz:10000/sub?" }],
         remoteConfig: [
