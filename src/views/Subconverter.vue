@@ -241,8 +241,8 @@ export default {
           QuantumultX: "quanx",
           Surfboard: "surfboard",
           Loon: "loon",
-          ss(sip002): "ss",
-          ss: "sssub",
+          ss-sip002: "ss",
+          ss-client: "sssub",
           ssr: "ssr",
           ssd: "ssd",
           v2ray: "v2ray"
