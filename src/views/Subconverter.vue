@@ -259,7 +259,7 @@ export default {
               {
                 label: "No-Urltest",
                 value:
-                  "https://raw.githubusercontent.com/admin-dyl/sub-rules/master/RemoteConfig/universal/no-urltest.ini"
+                  "https://raw.githubusercontent.com/Arron-CN/sub-rules/master/RemoteConfig/universal/no-urltest.ini"
               }
             ]
           },
